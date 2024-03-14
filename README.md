@@ -29,6 +29,7 @@
 ![image](https://github.com/banana0324/HIS_system/assets/14922129/671ad92a-4f19-4d26-b593-72b8b7ca2ba0)
 
 後台管理-刪除提示，避免誤刪資料
+
 ![image](https://github.com/banana0324/HIS_system/assets/14922129/e0a6e522-f525-421c-9fcc-e95563562bd9)
 
 後台介面-統計到院後狀態查詢患者到院後之狀態（出院/住院/死亡）並以圖形化界面展示
