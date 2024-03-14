@@ -5,11 +5,13 @@
 
 語言：python、HTML、css
 資料庫：SQL SERVER
-
+登入頁示意圖
 ![image](https://github.com/banana0324/HIS_system/assets/14922129/c5382a18-a8a6-4ae4-912b-2581f8f2ce61)
 
-登入頁示意圖
+
 
 前台介面-患者清單，查看患者清單，上方搜尋欄位可模糊查詢患者資訊
 ![image](https://github.com/banana0324/HIS_system/assets/14922129/7302883d-cfbd-4288-a70a-dd06ce111f39)
-患者清單示意圖
+
+前台介面-患者詳細資訊，查看患者資訊可了解患者所有資訊
+![image](https://github.com/banana0324/HIS_system/assets/14922129/852cb03a-437c-414d-874a-189050a4fd24)
