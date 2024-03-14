@@ -21,9 +21,11 @@
 ![image](https://github.com/banana0324/HIS_system/assets/14922129/892f5e4f-9327-4153-9a84-fb83116ffe4e)
 
 後台管理-修改患者資料，修改患者個人資訊
+
 ![image](https://github.com/banana0324/HIS_system/assets/14922129/023f7a52-c1bd-4d4e-a7e1-b241fce7914e)
 
 後台管理-新增患者資訊，新增患者資訊
+
 ![image](https://github.com/banana0324/HIS_system/assets/14922129/671ad92a-4f19-4d26-b593-72b8b7ca2ba0)
 
 後台管理-刪除提示，避免誤刪資料
